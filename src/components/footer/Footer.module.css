@@ -1,0 +1,17 @@
+.footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    /* background-color: #fe9118; */
+    background-color: #f7f7f7;
+    padding: .6rem;
+    margin-top:1rem;
+    position: relative;
+}
+
+.span {
+    text-transform: capitalize;
+    opacity: .9;
+    cursor: pointer;
+}

@@ -1,0 +1,29 @@
+.product {
+    /* margin-top: 2rem; */
+    padding-top: 2rem;
+}
+
+.rupee {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem 1.9rem;
+}
+
+.name {
+    text-align: center;
+    padding-top: 1rem;
+}
+
+.add_to_cart {
+    border: 0.3rem solid #fe9118;
+    background-color: #fe9118;
+    cursor: pointer;
+    border-radius: 1rem;
+}
+
+.round {
+    background-color: #f7f7f7;
+    border: 1rem solid white;
+    border-radius: 2rem;
+}

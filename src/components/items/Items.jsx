@@ -8,13 +8,13 @@ const Items = () => {
       <H1>All Items</H1>
       <Div>
         <Item />
+        {/* <Item />
         <Item />
         <Item />
         <Item />
         <Item />
         <Item />
-        <Item />
-        <Item />
+        <Item /> */}
       </Div>
     </>
   );
@@ -23,7 +23,8 @@ const H1 = styled.h1`
   text-align: center;
   justify-content: center;
   justify-content: center;
-  margin: 1.5rem;
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
 `;
 const Div = styled.div`
   ${"" /* height: 400px; */}

@@ -1,5 +1,7 @@
 .product {
     border-radius: 1rem;
+    width: 20rem;
+    height: 16rem;
 }
 
 .rupee {
@@ -33,6 +35,16 @@
     border: 1rem solid white;
     border-radius: 2rem;
 }
-.plus{
+
+.plus {
     margin-right: .8rem;
+}
+
+.price_d {
+    font-weight: bold;
+}
+
+.mainDch{
+    display: flex;
+    justify-content: center;
 }
